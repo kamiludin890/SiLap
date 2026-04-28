@@ -1,0 +1,17 @@
+<!-- @format -->
+
+Requirements
+
+- PHP 8.3.30
+- Composer
+- Mysql(Recomendation v8.4.3)
+- Untuk Windows aktifkan ekstensi php com_dotnet
+- Untuk database harap dibuat dulu tanpa tabel
+
+Installation
+
+1. Clone the repository
+2. Run `composer require twbs/bootstrap:5.3.8` and `composer require twbs/bootstrap-icons` to install dependencies
+3. Run your server Xampp Or Laragon
+4. Open `http://localhost/` in your browser
+5. Setting koneksi ke database di pengaturan
