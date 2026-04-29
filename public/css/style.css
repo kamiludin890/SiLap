@@ -42,3 +42,12 @@ body {
   background-color: rgba(255, 255, 255, 0.3);
   font-weight: 500;
 }
+.card-title {
+  cursor: default;
+}
+
+.card-hov:hover {
+  cursor: pointer;
+  background-color: #f8f9fa;
+  transform: scale(1.02);
+}
