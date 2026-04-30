@@ -1,5 +1,5 @@
 <div id="second-content">
-    <div class="d-flex flex-column m-3 text-center">
+    <div class="d-flex flex-column m-1 text-center">
         <div class="row ">
             <div class="col mt-2">
                 <div class="card card-hov">

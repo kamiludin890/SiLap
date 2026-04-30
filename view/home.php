@@ -1,9 +1,12 @@
 <div id="wrapper">
 
     <div id="sidebar" class="bg-primary text-white p-3">
-        <div class="d-flex align-items-center justify-content-center gap-2 mb-3">
-            <img src="public/icon/Fina.png" class="logo-silap">
-            <h4 class="m-0 fw-bold">Fina</h4>
+        <div class="text-center">
+            <div class="d-flex align-items-center justify-content-center gap-2">
+                <img src="public/icon/Final.png" class="logo-final">
+                <h4 class="m-0 fw-bold">Final</h4>
+            </div>
+            <p>Financial Analysis</p>
         </div>
         <hr>
 
