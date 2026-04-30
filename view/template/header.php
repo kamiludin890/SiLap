@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="/vendor/twbs/bootstrap-icons/font/bootstrap-icons.css">
     <link rel="stylesheet" href="/public/icon/fonts/remixicon.css">
     <link rel="stylesheet" href="/public/css/style.css">
-    <title>SiLap App</title>
+    <title>Fina App</title>
+    <link rel="icon" href="public/icon/Fina.png" type="image/x-icon">
 </head>
 
 <body>

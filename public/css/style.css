@@ -51,3 +51,18 @@ body {
   background-color: #f8f9fa;
   transform: scale(1.02);
 }
+
+.logo-silap {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  border-radius: 8px;
+  background: white;
+  padding: 4px;
+}
+
+/* optional: efek hover biar hidup */
+.logo-silap:hover {
+  transform: scale(1.05);
+  transition: 0.2s;
+}

@@ -1,7 +1,10 @@
 <div id="wrapper">
 
     <div id="sidebar" class="bg-primary text-white p-3">
-        <h4 class="text-center">SiLap</h4>
+        <div class="d-flex align-items-center justify-content-center gap-2 mb-3">
+            <img src="public/icon/Fina.png" class="logo-silap">
+            <h4 class="m-0 fw-bold">Fina</h4>
+        </div>
         <hr>
 
         <ul class="nav flex-column">
