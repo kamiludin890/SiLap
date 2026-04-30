@@ -5,7 +5,7 @@
         <div class="col-md-6 mb-4">
             <div class="card shadow-sm">
                 <div class="card-body" style="height: 90vh;">
-                    <h6 class="mb-3">Kegiatan per Bulan</h6>
+                    <h6 class="mb-3">Penjualan per Bulan</h6>
                     <canvas id="barChart"></canvas>
                 </div>
             </div>
@@ -15,7 +15,7 @@
         <div class="col-md-6 mb-4">
             <div class="card shadow-sm">
                 <div class="card-body" style="height: 90vh;">
-                    <h6 class="mb-3">Kategori Kegiatan</h6>
+                    <h6 class="mb-3">Kategori Penjualan</h6>
                     <canvas id="pieChart"></canvas>
                 </div>
             </div>
@@ -25,7 +25,7 @@
         <div class="col-md-12">
             <div class="card shadow-sm">
                 <div class="card-body" style="height: 90vh;">
-                    <h6 class="mb-3">Trend Kegiatan</h6>
+                    <h6 class="mb-3">Trend Penjualan</h6>
                     <canvas id="lineChart"></canvas>
                 </div>
             </div>
@@ -47,7 +47,7 @@
                 data: {
                     labels: data.bulan,
                     datasets: [{
-                        label: "Jumlah Kegiatan",
+                        label: "Jumlah Penjualan",
                         data: data.jumlah
                     }]
                 }
