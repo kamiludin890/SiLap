@@ -4,7 +4,7 @@
 
 Sistem ERP yang mudah dan detail
 
-![Logo](public/icon/Final.png)
+<img src="public/icon/Final.png" width="50">
 
 ## Screenshots
 
